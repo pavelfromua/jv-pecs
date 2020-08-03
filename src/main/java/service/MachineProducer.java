@@ -1,10 +1,10 @@
 package service;
 
+import java.util.ArrayList;
+import java.util.List;
 import model.Bulldozer;
 import model.Excavator;
 import model.Track;
-import java.util.ArrayList;
-import java.util.List;
 
 public interface MachineProducer<T> {
     /**

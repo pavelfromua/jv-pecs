@@ -1,6 +1,6 @@
 package service;
-import java.util.List;
 
+import java.util.List;
 /**
  * Parameterize this service and add its implementation in a separate class.
  */
